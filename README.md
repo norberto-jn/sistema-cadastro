@@ -14,6 +14,10 @@ A tela inicial deve conter todos os clientes registrados e também um botão par
 
 Tela de cadastro :
 
+Assim como explicado acima a tela de cadastro deve conter um link para editar o  registro recém cadastro .
+
+veja nas imagens abaixo :
+
 ![Tela cadastro](https://raw.githubusercontent.com/norberto-jn/SistemaCadastro/master/imagem-Telas/TelaCadastro.png)
 
 
