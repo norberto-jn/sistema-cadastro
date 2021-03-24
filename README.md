@@ -22,6 +22,10 @@ veja nas imagens abaixo :
 
 
 
+Tela de Edição : 
+
+![Tela de Ediçao](https://raw.githubusercontent.com/norberto-jn/SistemaCadastro/master/imagem-Telas/CadastroID-6.png)
+
 
 
 
