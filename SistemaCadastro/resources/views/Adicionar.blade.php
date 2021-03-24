@@ -63,7 +63,7 @@
                 alert("Registro feito com sucesso")
             </script>
             <div class="alert alert-success" role="alert">
-                <a href="{{ $link }}">http://construsite.test/Editar_id={{ $dadoBD->id_cliente}}</a>
+                <a href="{{ $link }}">http://SistemaCadastro.test/Editar_id={{ $dadoBD->id_cliente}}</a>
             </div>
         @endif
     </div>
