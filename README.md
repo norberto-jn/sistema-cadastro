@@ -2,7 +2,9 @@
 
 
 
-![Tela inicial]("https://github.com/norberto-jn/SistemaCadastro/blob/master/imagem-Telas/TelaInicial.png")
+![Tela inicial](https://raw.githubusercontent.com/norberto-jn/SistemaCadastro/master/imagem-Telas/TelaInicial.png)
+
+
 
 
 
